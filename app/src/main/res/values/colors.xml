@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="off_black">#151A1E</color>
+    <color name="off_white">#DEDFE0</color>
+    <color name="card_bg">#0e0e0e</color>
+    <color name="highlight_cyan">#96CCF9</color>
+    <color name="extreme_diff">#AD60C0</color>
+    <color name="hard_diff">#ff4b4b</color>
+    <color name="normal_diff">#74e8ff</color>
+    <color name="easy_diff">#74ff86</color>
+</resources>
